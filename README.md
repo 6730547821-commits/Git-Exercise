@@ -24,9 +24,8 @@ c) Update this README.md file:
 
 👤 1. Student Information
 
-Name: *** Your full name *** 
-Email: *** Your email address *** 
-
+Name: Suphitchaya Kongthai
+Email: 6730547821@student.chula.ac.th
 🖼️ 2. Picture
 
 *** Place Quote.* here *** 
