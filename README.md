@@ -27,6 +27,12 @@ c) Update this README.md file:
 Name: Suphitchaya Kongthai
 Email: 6730547821@student.chula.ac.th
 
+Name: Pimmada Phayoongtham
+Email: 6730376821@student.chula.ac.th
+
+Name: Pannaporn Kawil
+Email: 6730305221@student.chula.ac.th
+
 🖼️ 2. Picture
 
 ![Quote](Quote.png)
